@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Aryan Rathore
 **A passionate Full-Stack Developer || Learning DSA || Generative AI**
 
-Email Me 👉 ✉️ **rathorearyan533@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **[rathorearyan533@gmail.com](mailto:rathorearyan533@gmail.com)** For Collaboration/Projects or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Full Stack Projects
 - 🌱 **I’m currently learning:** DSA and AI/ML
 - 👯 **I’m looking to collaborate on:** Real-World-Problems
 - 🤔 **I’m looking for help with:** Make Some Innovative
-- 📫 **How to reach me:** rathorearyan533@gmail.com
+- 📫 **How to reach me:** **[rathorearyan533@gmail.com](mailto:rathorearyan533@gmail.com)**
 - 😄 **Pronouns:** Aryan rathore
 - ⚡ **Fun fact:** I Love Create and innovate Love Me
 ## 🌐 Socials:
