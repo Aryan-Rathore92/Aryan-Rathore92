@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **[rathorearyan533@gmail.com](https://mail.google.com/mail/
 - 👯 **I’m looking to collaborate on:** Real-World-Problems
 - 🤔 **I’m looking for help with:** Make Some Innovative
 - 📫 **How to reach me:** **[rathorearyan533@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rathorearyan533@gmail.com)**
-- 😄 **Pronouns:** Aryan rathore
 - ⚡ **Fun fact:** I Love Create and innovate Love Me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-rathore-83aa9b35a) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rathorearyan533@gmail.com) 
