@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **rathorearyan533@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 
+- 🔭 **I’m currently working on:** Full Stack Projects
 - 🌱 **I’m currently learning:** DSA and AI/ML
 - 👯 **I’m looking to collaborate on:** Real-World-Problems
 - 🤔 **I’m looking for help with:** Make Some Innovative
